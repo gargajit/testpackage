@@ -5,4 +5,14 @@ download-base-url: https://raw.githubusercontent.com/gargajit/testpackage/main
 
 -- fastn.dependency: fifthtry.github.io/doc-site as ds
 
+-- fastn.dependency: gargajit.github.io/expander
+
+-- fastn.dependency: fifthtry.github.io/doc-site
+
+-- fastn.dependency: fifthtry.github.io/admonitions
+
+-- fastn.dependency: fifthtry.github.io/winter-cs
+
+-- fastn.dependency: fifthtry.github.io/bling 
+
 -- fastn.auto-import: ds
